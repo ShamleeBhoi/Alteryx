@@ -1,0 +1,8 @@
+Brief:
+
+Exercise #1 Join to Range:
+A company in Australia has source data which is made up of a series of postal codes (eg. 2000, 2001, 2002 etc.) amongst some other data fields. They have a separate reference table which contains postcode ranges (eg. 2000 to 2002) which they would like to use to match/filter their main data.
+Each Customer Record needs to be joined to the Lookup table based on a Postal Area Ranged region. Then finally summarize the customer data by Region, Sales Rep, and Responder, then a count of customers.
+Check and see what the result should look like by looking at the data labeled 'Output'.  Your mission is to take the input files and blend them so your result matches the output shown.
+
+Link: https://community.alteryx.com/t5/Weekly-Challenges/Challenge-1-Join-to-Range/td-p/36621
