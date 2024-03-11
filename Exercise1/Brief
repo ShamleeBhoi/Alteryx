@@ -10,6 +10,7 @@ Link: https://community.alteryx.com/t5/Weekly-Challenges/Challenge-1-Join-to-Ran
 
 Solution 1: Workflow 1
 - Utilized the Formula tool to define the min and max values to generate sequential numbers.
+![Alt text](Exercise1/Ex1_S1.jpg)
 
 Solution 2: Workflow 2
 - Utilized the Text-to-Coloumn tool to split the series postal codes.
