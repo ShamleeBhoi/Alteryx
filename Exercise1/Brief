@@ -6,3 +6,16 @@ Each Customer Record needs to be joined to the Lookup table based on a Postal Ar
 Check and see what the result should look like by looking at the data labeled 'Output'.  Your mission is to take the input files and blend them so your result matches the output shown.
 
 Link: https://community.alteryx.com/t5/Weekly-Challenges/Challenge-1-Join-to-Range/td-p/36621
+
+
+Solution 1: Workflow 1
+- Utilized the Formula tool to define the min and max values to generate sequential numbers.
+
+Solution 2: Workflow 2
+- Utilized the Text-to-Coloumn tool to split the series postal codes.
+
+Solution 3: 
+- Utilzed pandas code in jupyter using the python tool to generate the postal code coloumn and then use the Alteryx summarize to generate the output.
+
+Solution 4:
+- Carry the entire soluter using pandas and python functions. 
